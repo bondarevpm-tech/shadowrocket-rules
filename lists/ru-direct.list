@@ -1,0 +1,152 @@
+# =========================
+# RU DIRECT LIST
+# Для Shadowrocket / Clash / Surge
+# Российские приложения и сервисы напрямую (без VPN)
+# =========================
+
+# ===== ГОСУСЛУГИ =====
+DOMAIN-KEYWORD,gosuslugi,DIRECT
+DOMAIN-SUFFIX,gosuslugi.ru,DIRECT
+DOMAIN-SUFFIX,esia.gosuslugi.ru,DIRECT
+
+# ===== OZON =====
+DOMAIN-KEYWORD,ozon,DIRECT
+DOMAIN-SUFFIX,ozon.ru,DIRECT
+DOMAIN-SUFFIX,ozonusercontent.com,DIRECT
+
+# ===== WILDBERRIES =====
+DOMAIN-KEYWORD,wildberries,DIRECT
+DOMAIN-KEYWORD,wb,DIRECT
+DOMAIN-SUFFIX,wildberries.ru,DIRECT
+DOMAIN-SUFFIX,wb.ru,DIRECT
+DOMAIN-SUFFIX,wbstatic.net,DIRECT
+
+# ===== AVITO =====
+DOMAIN-KEYWORD,avito,DIRECT
+DOMAIN-SUFFIX,avito.ru,DIRECT
+DOMAIN-SUFFIX,avito.st,DIRECT
+
+# ===== YANDEX =====
+DOMAIN-KEYWORD,yandex,DIRECT
+DOMAIN-SUFFIX,yandex.ru,DIRECT
+DOMAIN-SUFFIX,yandex.net,DIRECT
+DOMAIN-SUFFIX,ya.ru,DIRECT
+DOMAIN-SUFFIX,yastatic.net,DIRECT
+DOMAIN-SUFFIX,yandexcloud.net,DIRECT
+
+# ===== VK =====
+DOMAIN-KEYWORD,vk,DIRECT
+DOMAIN-SUFFIX,vk.com,DIRECT
+DOMAIN-SUFFIX,vk.ru,DIRECT
+DOMAIN-SUFFIX,userapi.com,DIRECT
+DOMAIN-SUFFIX,vkuser.net,DIRECT
+
+# ===== MAIL.RU =====
+DOMAIN-KEYWORD,mail,DIRECT
+DOMAIN-SUFFIX,mail.ru,DIRECT
+DOMAIN-SUFFIX,mailimg.ru,DIRECT
+
+# ===== TELEGRAM =====
+DOMAIN-KEYWORD,telegram,DIRECT
+DOMAIN-SUFFIX,telegram.org,DIRECT
+DOMAIN-SUFFIX,t.me,DIRECT
+
+# ===== RUTUBE =====
+DOMAIN-KEYWORD,rutube,DIRECT
+DOMAIN-SUFFIX,rutube.ru,DIRECT
+
+# ===== DZEN =====
+DOMAIN-KEYWORD,dzen,DIRECT
+DOMAIN-SUFFIX,dzen.ru,DIRECT
+
+# ===== 2GIS =====
+DOMAIN-KEYWORD,2gis,DIRECT
+DOMAIN-SUFFIX,2gis.ru,DIRECT
+
+# ===== CIAN =====
+DOMAIN-KEYWORD,cian,DIRECT
+DOMAIN-SUFFIX,cian.ru,DIRECT
+
+# ===== HH =====
+DOMAIN-KEYWORD,hh,DIRECT
+DOMAIN-SUFFIX,hh.ru,DIRECT
+
+# ===== DROM =====
+DOMAIN-KEYWORD,drom,DIRECT
+DOMAIN-SUFFIX,drom.ru,DIRECT
+
+# ===== DNS =====
+DOMAIN-KEYWORD,dns,DIRECT
+DOMAIN-SUFFIX,dns-shop.ru,DIRECT
+
+# ===== LAMODA =====
+DOMAIN-KEYWORD,lamoda,DIRECT
+DOMAIN-SUFFIX,lamoda.ru,DIRECT
+
+# ===== MEGAMARKET =====
+DOMAIN-KEYWORD,megamarket,DIRECT
+DOMAIN-SUFFIX,megamarket.ru,DIRECT
+
+# ===== СБЕР =====
+DOMAIN-KEYWORD,sber,DIRECT
+DOMAIN-SUFFIX,sberbank.ru,DIRECT
+DOMAIN-SUFFIX,sberbank.com,DIRECT
+DOMAIN-SUFFIX,sberdevices.ru,DIRECT
+
+# ===== Т-БАНК =====
+DOMAIN-KEYWORD,tbank,DIRECT
+DOMAIN-KEYWORD,tinkoff,DIRECT
+DOMAIN-SUFFIX,tbank.ru,DIRECT
+DOMAIN-SUFFIX,tinkoff.ru,DIRECT
+
+# ===== АЛЬФА =====
+DOMAIN-KEYWORD,alfabank,DIRECT
+DOMAIN-SUFFIX,alfabank.ru,DIRECT
+
+# ===== ВТБ =====
+DOMAIN-KEYWORD,vtb,DIRECT
+DOMAIN-SUFFIX,vtb.ru,DIRECT
+
+# ===== ГАЗПРОМБАНК =====
+DOMAIN-KEYWORD,gazprombank,DIRECT
+DOMAIN-SUFFIX,gazprombank.ru,DIRECT
+
+# ===== РАЙФФАЙЗЕН =====
+DOMAIN-KEYWORD,raiffeisen,DIRECT
+DOMAIN-SUFFIX,raiffeisen.ru,DIRECT
+
+# ===== РЖД =====
+DOMAIN-KEYWORD,rzd,DIRECT
+DOMAIN-SUFFIX,rzd.ru,DIRECT
+
+# ===== АЭРОФЛОТ =====
+DOMAIN-KEYWORD,aeroflot,DIRECT
+DOMAIN-SUFFIX,aeroflot.ru,DIRECT
+
+# ===== S7 =====
+DOMAIN-KEYWORD,s7,DIRECT
+DOMAIN-SUFFIX,s7.ru,DIRECT
+
+# ===== ЮЛА =====
+DOMAIN-KEYWORD,youla,DIRECT
+DOMAIN-SUFFIX,youla.ru,DIRECT
+
+# ===== STEAM RU CDN =====
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+
+# ===== KASPERSKY =====
+DOMAIN-KEYWORD,kaspersky,DIRECT
+DOMAIN-SUFFIX,kaspersky.ru,DIRECT
+DOMAIN-SUFFIX,kaspersky.com,DIRECT
+
+# ===== APPLE PUSH =====
+DOMAIN-SUFFIX,push.apple.com,DIRECT
+DOMAIN-SUFFIX,icloud.com,DIRECT
+DOMAIN-SUFFIX,apple.com,DIRECT
+
+# ===== CDN / RU =====
+DOMAIN-SUFFIX,cdnvideo.ru,DIRECT
+DOMAIN-SUFFIX,selectel.ru,DIRECT
+DOMAIN-SUFFIX,timeweb.ru,DIRECT
+DOMAIN-SUFFIX,beget.com,DIRECT
+DOMAIN-SUFFIX,reg.ru,DIRECT
